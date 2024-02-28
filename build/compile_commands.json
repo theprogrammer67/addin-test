@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/stoi/c++/src/addin-template/build",
+  "command": "/usr/bin/c++ -DSampleAddIn_EXPORTS -DUNICODE -D_UNICODE -I/home/stoi/c++/src/addin-template/include -g -fPIC -o CMakeFiles/SampleAddIn.dir/src/dllmain.cpp.o -c /home/stoi/c++/src/addin-template/src/dllmain.cpp",
+  "file": "/home/stoi/c++/src/addin-template/src/dllmain.cpp"
+},
+{
+  "directory": "/home/stoi/c++/src/addin-template/build",
+  "command": "/usr/bin/c++ -DSampleAddIn_EXPORTS -DUNICODE -D_UNICODE -I/home/stoi/c++/src/addin-template/include -g -fPIC -o CMakeFiles/SampleAddIn.dir/src/exports.cpp.o -c /home/stoi/c++/src/addin-template/src/exports.cpp",
+  "file": "/home/stoi/c++/src/addin-template/src/exports.cpp"
+},
+{
+  "directory": "/home/stoi/c++/src/addin-template/build",
+  "command": "/usr/bin/c++ -DSampleAddIn_EXPORTS -DUNICODE -D_UNICODE -I/home/stoi/c++/src/addin-template/include -g -fPIC -o CMakeFiles/SampleAddIn.dir/src/Component.cpp.o -c /home/stoi/c++/src/addin-template/src/Component.cpp",
+  "file": "/home/stoi/c++/src/addin-template/src/Component.cpp"
+},
+{
+  "directory": "/home/stoi/c++/src/addin-template/build",
+  "command": "/usr/bin/c++ -DSampleAddIn_EXPORTS -DUNICODE -D_UNICODE -I/home/stoi/c++/src/addin-template/include -g -fPIC -o CMakeFiles/SampleAddIn.dir/src/SampleAddIn.cpp.o -c /home/stoi/c++/src/addin-template/src/SampleAddIn.cpp",
+  "file": "/home/stoi/c++/src/addin-template/src/SampleAddIn.cpp"
+}
+]

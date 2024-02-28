@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libSampleAddIn.so -o libSampleAddIn.so CMakeFiles/SampleAddIn.dir/src/dllmain.cpp.o CMakeFiles/SampleAddIn.dir/src/exports.cpp.o CMakeFiles/SampleAddIn.dir/src/Component.cpp.o CMakeFiles/SampleAddIn.dir/src/SampleAddIn.cpp.o 
